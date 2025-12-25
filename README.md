@@ -181,7 +181,7 @@ python app.py
 
 <h2>👤 Author</h2>
 <p>
-<b>Bala venu Balineni</b><br>
+<b>Poojitha Lingala</b><br>
 Machine Learning & Data Science Enthusiast
 </p>
 
